@@ -1,0 +1,2 @@
+INSERT INTO properties (mls_number, street1, street2, city, state, zipcode, neighborhood, sales_price, date_listed, bedrooms, bathrooms, garage_size, square_feet, lot_size, description)
+VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15)
